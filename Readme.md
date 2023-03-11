@@ -14,10 +14,8 @@ g++ main.cpp -o main
 ```
 The file `main.exe` (or without the `exe` if it's not on windows) will be the final executable file, which you can run. This is a CLI (command-line interface) so running it from console/terminal/commandline is advised.  
 > You can also use the pre-built binary for windows at the [release page](https://github.com/somedeveloper00/data-structure-samples/releases/tag/main).  
-<button onclick="window.location.href='https://github.com/somedeveloper00/data-structure-samples/releases/download/main/main.exe';">Download v1.0.0</button>
+or [download directly](https://github.com/somedeveloper00/data-structure-samples/releases/download/main/main.exe).
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/somedeveloper00" aria-label="Follow @somedeveloper00 on GitHub">Follow @somedeveloper00</a>
 
 ## Usage & Sample
 here's a benchmark example of arrays in my device:  
