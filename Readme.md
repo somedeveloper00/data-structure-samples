@@ -1,6 +1,12 @@
 # Data Structure Samples
 by saeed barari
 
+<!--ts-->
+   * [What's this?!](#whats-this)
+   * [Install](#install)
+   * [Usage & Sample](#usage--sample)
+<!--te-->
+
 ## What's this?!
 A project that takes a look at implementation of different list types, arrays and linked list in particular, and executes benchmarks on them.
 
