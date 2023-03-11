@@ -12,7 +12,7 @@ namespace ListMath
             arr[i] = list->get_at(i);
         }
         std::sort(arr, arr + c);
-        for (size_t i = 0; i < count; i++) {
+        for (size_t i = 0; i < c; i++) {
             list->set_at(i, arr[i]);
         }
     }
