@@ -1,3 +1,7 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
 # Data Structure Samples
 by saeed barari
 
@@ -12,8 +16,9 @@ The file `main.exe` (or without the `exe` if it's not on windows) will be the fi
 > You can also use the pre-built binary for windows at the [release page](https://github.com/somedeveloper00/data-structure-samples/releases/tag/main).  
 <button onclick="window.location.href='https://github.com/somedeveloper00/data-structure-samples/releases/download/main/main.exe';">Download v1.0.0</button>
 
-> :Buttons
-> > :Button label=GitHub, url=https://github.com
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/somedeveloper00" aria-label="Follow @somedeveloper00 on GitHub">Follow @somedeveloper00</a>
+
 ## Usage & Sample
 here's a benchmark example of arrays in my device:  
 `main.exe -b arr`
