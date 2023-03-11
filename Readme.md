@@ -28,8 +28,8 @@ adding 100000 items to list one by one.
 ```
 as you can see, array outperformed linked list in a all-at-once adding of items, but the linked list performed slightly better when adding items one by one.
 
-> You can also change the way benchmark works by modifying the source code "Benchmark.cpp". here for instance, take a look at this variable 
-> ![benchmark script variable](/imgs/img1.png)
+> You can also change the way benchmark works by modifying the source code "Benchmark.cpp". here for instance, take a look at this variable  
+> ![benchmark script variable](/imgs/img1.png)  
 > I'm changing that to 128 and doing another build, to do another (better) benchmark.  
 > `main.exe -b arr`
 > ```console
